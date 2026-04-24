@@ -5,7 +5,6 @@
 | Name                | SRN            |
 |---------------------|----------------|
 | Sourish Ganesh      | PES1UG25CS847  |
-|---------------------|----------------|
 | Babu Kondu Doyipade | PES1UG23CS134  |
 
 ## Overview
