@@ -93,38 +93,37 @@ This project implements a lightweight container runtime in C with a supervisor p
 ## Screenshots
 
 1. **Supervisor Process**:  
-   ![Supervisor](supervisor.png)
+   ![Supervisor](readme/supervisor.png)
 
 2. **Container Isolation**:  
-   ![Container Isolation](containerisolation.png)
+   ![Container Isolation](readme/containerisolation.png)
 
 3. **Multiple Containers Running**:  
-   ![Multiple Containers](multiplecontainers.png)
+   ![Multiple Containers](readme/multiplecontainers.png)
 
 4. **Second Container**:  
-   ![Second Container](secondcontainer.png)
+   ![Second Container](readme/secondcontainer.png)
 
 5. **CPU Workload**:  
-   ![CPU Workload](cpuworkload.png)
+   ![CPU Workload](readme/cpuworkload.png)
 
 6. **Scheduling Experiment**:  
-   ![Scheduling Experiment](scheduling%20experiment.png)
+   ![Scheduling Experiment](readme/scheduling%20experiment.png)
 
 7. **Soft Memory Warning Limit**:  
-   ![Soft Memory Warning](softmemorywarninglimit.png)
+   ![Soft Memory Warning](readme/softmemorywarninglimit.png)
 
 8. **Hard Limit Kill**:  
-   ![Hard Limit Kill](hardlimitkill.png)
+   ![Hard Limit Kill](readme/hardlimitkill.png)
 
 9. **Kernel Module Loaded**:  
-   ![Kernel Module](kernelmoduleloaded.png)
+   ![Kernel Module](readme/kernelmoduleloaded.png)
 
 10. **Logging Output**:  
-    ![Logging Output](loggingoutput.png)
+    ![Logging Output](readme/loggingoutput.png)
 
 11. **CLI Communication**:  
-    ![CLI Communication](clicommunication.png)
-
+    ![CLI Communication](readme/clicommunication.png)
 
 
 ## Key Concepts
